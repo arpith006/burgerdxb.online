@@ -3,6 +3,7 @@
 Welcome to **BurgerDXB**, a food blog dedicated to reviewing the best burgers in Dubai! This website is hosted on Amazon EC2 and built using WordPress. It was created as part of the ICT171 project for learning server environments and deployment.
 
 🌐 Live Site: [burgerdxb.online](https://burgerdxb.online)
+📽️ Video Explainer: [Link to the video](https://youtu.be/Cbh0l2Fs9ZM).
 
 ---
 
