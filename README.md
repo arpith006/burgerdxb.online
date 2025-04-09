@@ -46,6 +46,6 @@ Follow these steps to replicate the setup:
 5. Purchase a domain name and configure DNS with AWS.
 6. Install an SSL certificate using Certbot.
 
-Detailed steps can be found in the [project documentation](./35548251_ICT171_DOCUMENTATION.pdf).
+Detailed steps can be found in the [project documentation](./35548251_ARPITH_ICT171_DOCUMENTATION.pdf).
 
 
